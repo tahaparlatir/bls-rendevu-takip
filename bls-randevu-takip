@@ -1,0 +1,1 @@
+print("BLS randevu takip botu hazır.")
